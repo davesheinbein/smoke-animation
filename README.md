@@ -2,7 +2,7 @@
 
 This showcases animation that could be utilized as a landing page or on another part of a website/
 
-## Screenshot:
+<!-- ## Screenshot: -->
 
 <!-- ![Home Page Sceenshot](./Screenshots/homepageScreenshot.png?) -->
 
@@ -16,7 +16,7 @@ This showcases animation that could be utilized as a landing page or on another 
 <!-- #### 3. JavaScript -->
 
 
-### Click the link to view the website
+<!-- ### Click the link to view the website -->
 <!-- [Smoke Animation]()  -->
 
 
