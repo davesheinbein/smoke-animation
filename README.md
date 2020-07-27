@@ -1,30 +1,29 @@
 # **Smoke Animation**
 
-This showcases animation that could be utilized as a landing page or on another part of a website. 
+This showcases an animation of text appearing after smoke passes. It could be utilized as a landing page or on another part of a website. 
 
-Please open in full screen.
 
 <!-- ## Screenshot: -->
 
-<!-- ![Home Page Sceenshot](./Screenshots/homepageScreenshot.png?) -->
+![Sceenshot](./smokeScreenshot.png?)
 
-<!-- [Home Page Sceenshot](https://imgur.com/nbhFggL) -->
-
+[Sceenshot](https://imgur.com/VHDJFD5)
 
 ## Technologies Used: 
 
 #### 1. HTML5
 #### 2. CSS
-<!-- #### 3. JavaScript -->
+#### 3. gh-pages
+<!-- #### 4. JavaScript -->
 
 
-<!-- ### Click the link to view the website -->
-<!-- [Smoke Animation]()  -->
+### Click the link to view the website
+[Smoke Animation](https://davesheinbein.github.io/smoke-animation/) 
 
 
 ## Potential Next Steps: 
 
-##### - [] Add Media Queries for different sized screens
+##### - [X] Add a Media Queries for different sized screens
 ##### - [] Add Javascript
 ##### - [] Implement as a landing page on another website
 
