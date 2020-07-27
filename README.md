@@ -3,7 +3,7 @@
 This showcases an animation of text appearing after smoke passes. It could be utilized as a landing page or on another part of a website. 
 
 
-<!-- ## Screenshot: -->
+## Screenshot:
 
 ![Sceenshot](./smokeScreenshot.png?)
 
