@@ -1,6 +1,8 @@
 # **Smoke Animation**
 
-This showcases animation that could be utilized as a landing page or on another part of a website/
+This showcases animation that could be utilized as a landing page or on another part of a website. 
+
+Please open in full screen.
 
 <!-- ## Screenshot: -->
 
