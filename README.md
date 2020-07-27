@@ -22,6 +22,7 @@ This showcases animation that could be utilized as a landing page or on another 
 
 ## Potential Next Steps: 
 
+##### - [] Add Media Queries for different sized screens
 ##### - [] Add Javascript
 ##### - [] Implement as a landing page on another website
 

@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    height: 100%;
+    background: #000000;
+}
+
+video {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    text-align: center;
+    color: #ddd;
+    font-size: 2rem;
+    letter-spacing: 0.25em;
+    font-family: monospace, 'Times New Roman', 'Times', 'serif';
+}
+
+h1 span {
+    opacity: 0;
+    display: inline-block;
+    animation: textAnimate 1s linear forwards;
+}
+
+@keyframes textAnimate {
+    0% {
+        opacity: 0;
+        transform: rotateY(90deg);
+        filter: blur(10px);
+    }
+    100% {
+        opacity: 1;
+        transform: rotateY(0deg);
+        filter: blur(0);
+    }
+}
